@@ -4,7 +4,7 @@ Music Player
 Introduction
 ------------
 
-**MAD Music Player** is a desktop-based music player application built with Java, JavaFX, and SQLite. The application demonstrates the principles of a **3-tier architecture** and emphasizes robust database management using SQLite — a lightweight, serverless relational database engine. It supports user authentication, media playback, and song library management, making it a well-rounded example of desktop application development with integrated data persistence.
+**Music Player** is a desktop-based music player application built with Java, JavaFX, and SQLite. The application demonstrates the principles of a **3-tier architecture** and emphasizes robust database management using SQLite — a lightweight, serverless relational database engine. It supports user authentication, media playback, and song library management, making it a well-rounded example of desktop application development with integrated data persistence.
 
 The use of SQLite enables a portable and easily manageable solution for storing user credentials and audio file metadata without the need for an external database server. All data interactions are handled through standard SQL queries using JDBC.
 
