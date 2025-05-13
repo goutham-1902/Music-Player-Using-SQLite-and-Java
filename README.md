@@ -106,4 +106,4 @@ Connect
 
 If you’re interested in the project or want to connect professionally, feel free to reach out:
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/your-link-here)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/sds-kodali)
