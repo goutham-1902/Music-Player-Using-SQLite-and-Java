@@ -1,4 +1,4 @@
-MAD Music Player
+Music Player
 ================
 
 Introduction
