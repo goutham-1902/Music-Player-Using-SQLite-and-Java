@@ -1,0 +1,15 @@
+.gradle/
+build/
+
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+.idea/
+.vscode/
+.DS_Store
+
+data/audiofiles/
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
